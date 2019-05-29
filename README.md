@@ -26,7 +26,6 @@ Want to take your scenarios to the next level? Visit https://katacoda.com/embed
 
 
 # Interactive Katacoda Scenarios
-##Test test
 
 [![](http://shields.katacoda.com/katacoda/mattwalter/count.svg)](https://www.katacoda.com/mattwalter "Get your profile on Katacoda.com")
 
