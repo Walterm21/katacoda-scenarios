@@ -1,10 +1,11 @@
 {
   "title": "Decipher Now",
-  "description": "Your First Scenario",
+  "description": "A test scenario for decipher's first Katacoda tutorial",
   "difficulty": "beginner",
   "time": "5 minutes",
   "details": {
-    "steps": [{
+    "steps": [
+     {
       "title": "Step 1 - Run Command",
       "text": "step1.md"
     },
@@ -30,6 +31,6 @@
     "uimessage1": "\u001b[32mWelcome to Decipher. \u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "openshift"
   }
 }
