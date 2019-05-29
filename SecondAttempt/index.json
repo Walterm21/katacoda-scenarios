@@ -1,0 +1,31 @@
+{
+  "title": "Decipher Now",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2 - Try to break it",
+      "text": "step2.md"
+    }
+  ],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mWelcome to Decipher. \u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
