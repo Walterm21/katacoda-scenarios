@@ -1,4 +1,2 @@
 this is the second step 
-ooooo 
-
-aaaaaa
+    pretty exciting I know...
