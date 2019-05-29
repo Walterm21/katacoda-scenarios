@@ -11,6 +11,10 @@
     {
       "title": "Step 2 - Try to break it",
       "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - You probably broke it",
+      "text": "step3.md"
     }
   ],
     "intro": {
